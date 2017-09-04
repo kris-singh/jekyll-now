@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: First Post 
 ---
+Hi, Just wanted to introduce my self.
+I am Krishnakant Singh(Kris). I am have studying ML
+for 2 years and am absolutely fascianted by all the 
+advancements going out in the field.
+This blog would mostly about the my research and 
+paper that I read.
+I would also maintain a link to the latest and 
+the greatest of my projects :)
+I hope you enjoy reading this as much as i have 
+writing it. 
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
