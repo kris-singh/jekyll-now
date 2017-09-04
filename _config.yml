@@ -9,7 +9,7 @@ name: Kris Singh
 description: Machine Learning Researcher, Indie Music Enthusiast, Love travelling and Reading
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/pic1.jpg 
+avatar: /images/pic1.jpg 
 
 #
 # Flags below are optional
