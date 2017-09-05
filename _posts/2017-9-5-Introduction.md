@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post 
+title: Introductions 
 ---
 Hi, Just wanted to introduce my self.
 I am Krishnakant Singh(Kris). I am have studying ML
