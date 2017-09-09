@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a masters Student at IIT Hyderbad. I am currently supervised
+by Vineeth Balasubramaniam. My research intrest include but are not
+limited to optimisation methods, reinforcement learning and Deep 
+bayesian methods. I am presently working 2 problems.
+1) Graph Embeddings using non-spectal graph methods.
+2) Online Batch selection for better generalisation and faster convergence of NN.
+I also enjoy fiction reading when i get the time. I would want to travel around the
+world some day.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[krishnakant.singh@suiit.ac.in](mailto:krishnakant.singh@suiit.ac.in)
