@@ -18,7 +18,8 @@ I am presently working 2 problems.
 
 I also enjoy fiction reading when i get the time. I would want to travel around the
 world some day.
-
+### Publications / PrePrint
+[Graph2Vec](/docs/graph2vec_icdm.pdf)
 
 ### Contact me
 
